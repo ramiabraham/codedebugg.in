@@ -19,6 +19,7 @@
 * [Chrome DeveloperTools Working Group repos](https://github.com/DeveloperToolsWG")
 * [Query Monitor](https://wordpress.org/plugins/query-monitor/")
 * [Debug Bar](https://wordpress.org/plugins/debug-bar/)
+* [Debug Bar Addons](https://wordpress.org/plugins/search.php?q=debug+bar)
 
 #### Snippets used on codedebugg.in:
 
