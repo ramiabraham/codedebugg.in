@@ -1,6 +1,6 @@
 # CodeDebuggin'
 
-> A collection of helpful code debuggin resurces and tips used on <a href="http://codedebugg.in">codedebugg.in</a>, used in "Industrial Strength Debugging", at WordCamp Raleigh 2015, by @jtsternberg @ramiabraham.
+> A collection of helpful code debuggin resurces and tips used on <a href="http://codedebugg.in">codedebugg.in</a>, used in "Industrial Strength Debugging", at WordCamp Raleigh 2015, by [@jtsternberg](https://twitter.com/jtsternberg), [@ramiabraham](https://twitter.com/ramiabraham).
 
 * Javascript and php snippets are located within the `js` and `php` dirs.
 * Sublime-snippets are linked to below.
