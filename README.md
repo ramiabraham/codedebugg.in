@@ -17,7 +17,7 @@
 * [Stats.js by Mr.Doob](https://github.com/mrdoob/stats.js/blob/master/src/Stats.js")
 * [Chrome dev tools, official Tips and Tricks](https://developer.chrome.com/devtools/docs/tips-and-tricks")
 * [Chrome DeveloperTools Working Group repos](https://github.com/DeveloperToolsWG")
-* [Query Monitor](https://wordpress.org/plugins/query-monitor/")
+* [Query Monitor](https://wordpress.org/plugins/query-monitor/)
 * [Debug Bar](https://wordpress.org/plugins/debug-bar/)
 * [Debug Bar Addons](https://wordpress.org/plugins/search.php?q=debug+bar)
 * [Xdebug](http://xdebug.org/)
