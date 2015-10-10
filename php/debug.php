@@ -1,5 +1,10 @@
 <?php
 /**
+ * Handy PHP debugging snippets.
+ * @link http://dsgnwrks.pro/tools/sublime-text-2-wordpress-debugging-snippets/
+ */
+
+/**
  * echoprintr
  *
  * A fancy print_r() that’s wrapped in htmlentities() and <xmp> tags.
@@ -15,12 +20,12 @@ echo '<xmp>$my_var: '. print_r( $my_var, true ) .'</xmp>';
  * I use this when I’m not working in a file, or need to test some logic unrelated
  * to the file I’m working in. uses the ‘echoprintr’ snippet.
  */
-add_action( 'all_admin_notices', 'testing_admin_notice' );
 function testing_admin_notice() {
     echo '<div id="message" class="updated">';
         echo '<xmp>$my_var: '. print_r( $my_var, true ) .'</xmp>';
     echo '</div>';
 }
+add_action( 'all_admin_notices', 'testing_admin_notice' );
 
 /**
  * echovarexport
@@ -74,7 +79,7 @@ if ( isset( $_GET['debug'] ) ) {
  */
 
 // Whee!!
-// (comman-line): tail -f ~/YOUR-WORDPRESS-DIRECTORY/wp-content/debug.log
+// (command-line): $ tail -f ~/YOUR-WORDPRESS-DIRECTORY/wp-content/debug.log
 
 /**
  * todebuglog
