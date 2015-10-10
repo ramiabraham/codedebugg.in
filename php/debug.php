@@ -2,6 +2,9 @@
 /**
  * Handy PHP debugging snippets.
  * @link http://dsgnwrks.pro/tools/sublime-text-2-wordpress-debugging-snippets/
+ * 
+ * Sublime snippets can be found here:
+ * @link https://github.com/jtsternberg/Sublime-Text-2-WordPress-Debugging-Snippets
  */
 
 /**
