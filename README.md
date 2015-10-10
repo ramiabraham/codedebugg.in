@@ -20,6 +20,7 @@
 * [Query Monitor](https://wordpress.org/plugins/query-monitor/")
 * [Debug Bar](https://wordpress.org/plugins/debug-bar/)
 * [Debug Bar Addons](https://wordpress.org/plugins/search.php?q=debug+bar)
+* [Xdebug](http://xdebug.org/)
 
 #### Snippets used on codedebugg.in:
 
